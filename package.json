@@ -1,0 +1,28 @@
+{
+  "name": "presaep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.24.5",
+    "sequelize": "^6.37.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSF554/PreSAEP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SamSF554/PreSAEP/issues"
+  },
+  "homepage": "https://github.com/SamSF554/PreSAEP#readme",
+  "description": ""
+}
